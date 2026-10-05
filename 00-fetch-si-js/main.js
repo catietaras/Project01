@@ -3,7 +3,7 @@ const SI_URL = "https://api.si.edu/openaccess/api/v1.0/search";
 // how many rows to fetch per fetch request
 const OBJS_PER_QUERY = 1000;
 
-const QUERY_TERM = "astrolabe";
+const QUERY_TERM = "george washington";
 // const QUERY_TERM = "taxonomicName:\"Plantae Monocotyledonae Asparagales Orchidaceae\"";
 // const QUERY_TERM = "miscellaneous";
 
